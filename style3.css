@@ -1,0 +1,13 @@
+#body{
+    background: #ffe8ca;
+	font: 12px Arial, Helbetica;
+}
+.tb2{
+    background-color: rgb(145, 198, 245);
+    border-collapse: collapse;
+    border: 1px;
+    width: 50%;
+    height: auto;
+    font-size: large;
+
+}
